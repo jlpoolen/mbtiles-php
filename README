@@ -12,10 +12,11 @@ This TileServer serves the following information:
 
 Installation is simple: just put the .php file and the .htaccess file in the same 
 directory as your .mbtiles file(s), and you're good to go! You can then use LeafLet 
-or ModestMaps, or any other map viewer, to display your map.
+or ModestMaps, or any other map viewer, to display your map.  Map Viewing may be browser
+dependent.
 
-To see examples of what this TileServer can serve, you can go to the URL of where you 
-installed it.
+TODO: examples and samples
 
-Forked from https://github.com/Zverik/mbtiles-php
+Forked from https://github.com/infostreams/mbtiles-php
+which forked from https://github.com/Zverik/mbtiles-php
 
